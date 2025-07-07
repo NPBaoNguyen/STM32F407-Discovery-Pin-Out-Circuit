@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=K1-0
+Removed Pin From Net: NetName=VDD Pin=K1-2
+Removed Member From Class: ClassName=WMR_Sheet Member=K1
+Added Pin To Net: NetName=VSS Pin=H9-1
+Added Pin To Net: NetName=VSS Pin=H10-1
+Added Net: Name=VSS
+Added Room: Name=WMR_Sheet

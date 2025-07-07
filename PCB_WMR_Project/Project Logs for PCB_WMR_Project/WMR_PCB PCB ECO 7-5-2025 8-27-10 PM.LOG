@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Vo1_t Pin=R1-1
+Removed Pin From Net: NetName=Vo1 Pin=R1-2
+Removed Pin From Net: NetName=Vo2_t Pin=R2-1
+Removed Pin From Net: NetName=Vo2 Pin=R2-2
+Added Component: Designator=R1(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005899"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 5% 470k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro smd 1206)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005899"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 1206 5% 470k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vo1_t Pin=R1-1
+Added Pin To Net: NetName=Vo1 Pin=R1-2
+Added Pin To Net: NetName=Vo2_t Pin=R2-1
+Added Pin To Net: NetName=Vo2 Pin=R2-2
+Added Room: Name=WMR_Sheet

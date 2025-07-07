@@ -1,0 +1,84 @@
+Added Pin To Net: NetName=Do1 Pin=H9-3
+Added Pin To Net: NetName=Do1 Pin=TB1-P1_24
+Added Net: Name=Do1
+Added Pin To Net: NetName=Do2 Pin=H10-3
+Added Pin To Net: NetName=Do2 Pin=TB1-P2_28
+Added Net: Name=Do2
+Added Pin To Net: NetName=EncA1 Pin=H1-2
+Added Pin To Net: NetName=EncA1 Pin=TB1-P1_17
+Added Net: Name=EncA1
+Added Pin To Net: NetName=EncA2 Pin=H1-3
+Added Pin To Net: NetName=EncA2 Pin=TB1-P1_18
+Added Net: Name=EncA2
+Added Pin To Net: NetName=EncB1 Pin=H2-2
+Added Pin To Net: NetName=EncB1 Pin=TB1-P1_29
+Added Net: Name=EncB1
+Added Pin To Net: NetName=EncB2 Pin=H2-3
+Added Pin To Net: NetName=EncB2 Pin=TB1-P1_27
+Added Net: Name=EncB2
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=GND Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H5-4
+Added Pin To Net: NetName=GND Pin=H6-4
+Added Pin To Net: NetName=GND Pin=H7-4
+Added Pin To Net: NetName=GND Pin=H8-4
+Added Pin To Net: NetName=GND Pin=H9-4
+Added Pin To Net: NetName=GND Pin=H10-4
+Added Pin To Net: NetName=GND Pin=TB1-P1_1
+Added Net: Name=GND
+Added Pin To Net: NetName=PWMA1 Pin=H3-2
+Added Pin To Net: NetName=PWMA1 Pin=TB1-P1_11
+Added Net: Name=PWMA1
+Added Pin To Net: NetName=PWMA2 Pin=H3-3
+Added Pin To Net: NetName=PWMA2 Pin=TB1-P1_15
+Added Net: Name=PWMA2
+Added Pin To Net: NetName=PWMB1 Pin=H4-2
+Added Pin To Net: NetName=PWMB1 Pin=TB1-P1_14
+Added Net: Name=PWMB1
+Added Pin To Net: NetName=PWMB2 Pin=H4-3
+Added Pin To Net: NetName=PWMB2 Pin=TB1-P1_16
+Added Net: Name=PWMB2
+Added Pin To Net: NetName=RX1 Pin=H5-3
+Added Pin To Net: NetName=RX1 Pin=TB1-P2_38
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=H6-3
+Added Pin To Net: NetName=RX2 Pin=TB1-P2_41
+Added Net: Name=RX2
+Added Pin To Net: NetName=SCL1 Pin=H7-2
+Added Pin To Net: NetName=SCL1 Pin=TB1-P2_23
+Added Net: Name=SCL1
+Added Pin To Net: NetName=SCL2 Pin=H8-2
+Added Pin To Net: NetName=SCL2 Pin=TB1-P1_34
+Added Net: Name=SCL2
+Added Pin To Net: NetName=SDA1 Pin=H7-3
+Added Pin To Net: NetName=SDA1 Pin=TB1-P2_24
+Added Net: Name=SDA1
+Added Pin To Net: NetName=SDA2 Pin=H8-3
+Added Pin To Net: NetName=SDA2 Pin=TB1-P1_35
+Added Net: Name=SDA2
+Added Pin To Net: NetName=TX1 Pin=H5-2
+Added Pin To Net: NetName=TX1 Pin=TB1-P2_37
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX2 Pin=H6-2
+Added Pin To Net: NetName=TX2 Pin=TB1-P2_44
+Added Net: Name=TX2
+Added Pin To Net: NetName=VDD Pin=H1-1
+Added Pin To Net: NetName=VDD Pin=H2-1
+Added Pin To Net: NetName=VDD Pin=H3-1
+Added Pin To Net: NetName=VDD Pin=H4-1
+Added Pin To Net: NetName=VDD Pin=H5-1
+Added Pin To Net: NetName=VDD Pin=H6-1
+Added Pin To Net: NetName=VDD Pin=H7-1
+Added Pin To Net: NetName=VDD Pin=H8-1
+Added Pin To Net: NetName=VDD Pin=H9-1
+Added Pin To Net: NetName=VDD Pin=H10-1
+Added Pin To Net: NetName=VDD Pin=TB1-P2_22
+Added Net: Name=VDD
+Added Pin To Net: NetName=Vo1 Pin=H9-2
+Added Pin To Net: NetName=Vo1 Pin=TB1-P1_22
+Added Net: Name=Vo1
+Added Pin To Net: NetName=Vo2 Pin=H10-2
+Added Pin To Net: NetName=Vo2 Pin=TB1-P1_21
+Added Net: Name=Vo2

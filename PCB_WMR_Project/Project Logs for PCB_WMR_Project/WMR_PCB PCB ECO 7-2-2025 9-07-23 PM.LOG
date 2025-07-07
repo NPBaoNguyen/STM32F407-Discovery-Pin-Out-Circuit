@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWMB1 Pin=H4-1
+Removed Pin From Net: NetName=GND Pin=H4-2
+Removed Pin From Net: NetName=PWMB2 Pin=H4-3
+Removed Pin From Net: NetName=GND Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=PWMB1 Pin=H4-2
+Added Pin To Net: NetName=GND Pin=H4-3
+Added Pin To Net: NetName=PWMB2 Pin=H4-4
+Added Room: Name=WMR_Sheet

@@ -1,0 +1,9 @@
+Added Component: Designator=SW?(SW_2ARS_TH)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "471005264153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "471005264153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=WMR_Sheet Member=Component SW? SWITCH 10A-2PIN
+Added Room: Name=WMR_Sheet

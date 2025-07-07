@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDD Pin=H6-1
+Removed Pin From Net: NetName=TX2 Pin=H6-2
+Removed Pin From Net: NetName=RX2 Pin=H6-3
+Removed Pin From Net: NetName=GND Pin=H6-4
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=RX2 Pin=H6-2
+Added Pin To Net: NetName=TX2 Pin=H6-3
+Added Pin To Net: NetName=VDD Pin=H6-4
+Added Room: Name=WMR_Sheet

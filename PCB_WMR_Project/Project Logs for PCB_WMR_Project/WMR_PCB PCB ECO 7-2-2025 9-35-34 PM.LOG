@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Vo1 Pin=H9-2
+Removed Pin From Net: NetName=Do1 Pin=H9-3
+Removed Pin From Net: NetName=GND Pin=H9-4
+Removed Pin From Net: NetName=VDD Pin=H10-1
+Removed Pin From Net: NetName=Vo2 Pin=H10-2
+Removed Pin From Net: NetName=GND Pin=H10-4
+Added Pin To Net: NetName=Do1 Pin=H9-2
+Added Pin To Net: NetName=GND Pin=H9-3
+Added Pin To Net: NetName=Vo1 Pin=H9-4
+Added Pin To Net: NetName=Vo2 Pin=H10-1
+Added Pin To Net: NetName=GND Pin=H10-2
+Added Pin To Net: NetName=VDD Pin=H10-4
+Added Room: Name=WMR_Sheet

@@ -1,0 +1,9 @@
+Added Component: Designator=J?(MULTICOMP_MC000048)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MC000048/Multicomp/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MC000048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MC000048/Multicomp/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=WMR_Sheet Member=Component J? MC000048
+Added Room: Name=WMR_Sheet

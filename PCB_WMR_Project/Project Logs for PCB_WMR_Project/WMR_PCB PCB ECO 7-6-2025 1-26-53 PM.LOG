@@ -1,0 +1,6 @@
+Change Component Comment : Designator=J? Old Comment=TSW-101-07-G-T-LL New Comment=
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Pin To Net: NetName=VSS Pin=J1-02
+Added Pin To Net: NetName=VDD Pin=J1-03
+Added Pin To Net: NetName=5V Pin=J1-01
+Added Net: Name=5V

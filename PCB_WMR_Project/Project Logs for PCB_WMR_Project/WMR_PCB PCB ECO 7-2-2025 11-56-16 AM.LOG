@@ -1,0 +1,16 @@
+Added Component: Designator=H11(barrier_terminal)
+Added Component: Designator=H12(barrier_terminal)
+Added Component: Designator=H13(barrier_terminal)
+Added Component: Designator=K1(PCBComponent_1)
+Added Pin To Net: NetName=NetH11_+ Pin=H11-+
+Added Pin To Net: NetName=NetH11_+ Pin=H12-+
+Added Pin To Net: NetName=NetH11_+ Pin=H13-+
+Added Net: Name=NetH11_+
+Added Pin To Net: NetName=NetH11_- Pin=H11--
+Added Pin To Net: NetName=NetH11_- Pin=H12--
+Added Pin To Net: NetName=NetH11_- Pin=H13--
+Added Net: Name=NetH11_-
+Added Member To Class: ClassName=WMR_Sheet Member=Component H11 24V Vin
+Added Member To Class: ClassName=WMR_Sheet Member=Component H12 H-Bridge 1
+Added Member To Class: ClassName=WMR_Sheet Member=Component H13 H-Bridge 2
+Added Member To Class: ClassName=WMR_Sheet Member=Component K1 KCD3

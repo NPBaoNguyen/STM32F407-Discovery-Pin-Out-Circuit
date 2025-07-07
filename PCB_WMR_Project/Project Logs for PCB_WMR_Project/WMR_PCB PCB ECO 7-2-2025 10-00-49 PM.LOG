@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=TB1-P1_2
+Added Pin To Net: NetName=VDD Pin=TB1-P1_3
+Added Pin To Net: NetName=VDD Pin=TB1-P1_4
+Added Pin To Net: NetName=GND Pin=TB1-P1_5
+Added Pin To Net: NetName=GND Pin=TB1-P1_23
+Added Pin To Net: NetName=GND Pin=TB1-P1_49
+Added Pin To Net: NetName=GND Pin=TB1-P1_50
+Added Pin To Net: NetName=GND Pin=TB1-P2_1
+Added Pin To Net: NetName=GND Pin=TB1-P2_2
+Added Pin To Net: NetName=GND Pin=TB1-P2_49
+Added Pin To Net: NetName=GND Pin=TB1-P2_50
+Added Room: Name=WMR_Sheet

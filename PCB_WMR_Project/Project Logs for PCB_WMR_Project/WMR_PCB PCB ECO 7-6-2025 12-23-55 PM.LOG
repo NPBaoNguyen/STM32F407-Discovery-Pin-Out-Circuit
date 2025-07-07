@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Vo1 Pin=TB1-P1_22
+Added Pin To Net: NetName=Vo1 Pin=TB1-P1_45
+Added Room: Name=WMR_Sheet

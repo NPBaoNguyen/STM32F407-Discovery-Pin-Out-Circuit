@@ -1,0 +1,6 @@
+Change Component Comment : Designator=J? Old Comment=MC000048 New Comment=
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=WMR_Sheet Member=Component J2
+Added Room: Name=WMR_Sheet
